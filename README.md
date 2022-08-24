@@ -2,7 +2,7 @@
 
 My name is Jean Carlos, I'm 22 years old and I live in Belo Horizonte, Brazil. I am currently graduating in Informations Systems. My first contact with programming was in 2019 and  l working how in data engineer and software developer.
 
-- 🔭 I’m currently working with C#, HTML, SQL, and Python.
+- 🔭 I’m currently working with C#, HTML, SQL, Big data and Python.
 - 🌱 always curious about new technology
 
 <div align="center">
