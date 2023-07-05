@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Jean Carlos, I'm 22 years old and I live in Belo Horizonte, Brazil. I am currently graduating in Informations Systems. My first contact with programming was in 2019 and  l working how in data engineer and software developer.
+My name is Jean Carlos, I'm 22 years old and I live in Belo Horizonte, Brazil. I am currently graduating in Informations Systems. My first contact with programming was in 2019 and  l working how in data engineer.
 
-- 🔭 I’m currently working with SQL, Big data and Python, HTML.
+- 🔭 I’m currently working with SQL, Big data and Python.
 - 🌱 always curious about new technology
 
 <div align="center">
